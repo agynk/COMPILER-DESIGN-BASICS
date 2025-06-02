@@ -81,6 +81,6 @@ GeeksforGeeks
 
 ## OUTPUT :
 
-
+![Image](https://github.com/user-attachments/assets/143114e5-f4bc-4250-905f-ddc9c3901e9c)
 
 
